@@ -14,7 +14,7 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_label">Storfa Teledu</string>
-    <string name="permlab_readTvListings">darllen pob amserlen teledu</string>
-    <string name="permdesc_readTvListings">darllen pob amserlen teledu sydd ar gael ar dy ddyfais</string>
+    <string name="app_label">Stòras an TBh</string>
+    <string name="permlab_readTvListings">a h-uile liosta TBh a leughadh</string>
+    <string name="permdesc_readTvListings">a h-uile liosta TBh a tha ri fhaighinn air an uidheam agad a leughadh</string>
 </resources>
